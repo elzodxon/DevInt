@@ -1,9 +1,5 @@
 # [Dev Int](https://dev-int.vercel.app/)
 
-<p style="margin-bottom: 0px !important;">
-  <img width="500" src="static/persistedstate.gif" alt="adf" align="center">
-</p>
-
 ## Examples
 
 Does the proximity elements have any effect on specificity? For example is 'main div' more specific than 'html div'?
