@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header className="header">
             <h1 className="title">DevInt </h1>
-        <p className="menu">Interview questions for developers by <b>Developers</b></p>
+        <p className="menu">Interview questions for developers from <b>Developers</b></p>
       <menu className="menu">
         <Link className="menu__link" to="/">
           Home
