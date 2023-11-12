@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+html,
+body {
+  margin: 0;
+  font-family: Lato, sans-serif;
+  background-color: #f5f6fa;
+}
+
+.container {
+  margin: 50px auto 60px auto;
+  width: 50%;
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: 80%;
+  }
+}
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+}
